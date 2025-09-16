@@ -1,7 +1,4 @@
 package Arrays.Easy;
-
-C++
-        Java
 import java.util.*;
 public class Main {
     // Function to Reverse the array
